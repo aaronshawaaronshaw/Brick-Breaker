@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Brick.cs">
+    <Files>
+      <File FileName="..\Laser Defender\Assets\Scripts\PlayerController.cs" Line="16" Column="1" />
+      <File FileName="..\Laser Defender\Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="..\Laser Defender\Assets\Scripts\EnemyBehavior.cs" Line="1" Column="1" />
+      <File FileName="..\Laser Defender\Assets\Scripts\EnemyFormation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Brick.cs" Line="74" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

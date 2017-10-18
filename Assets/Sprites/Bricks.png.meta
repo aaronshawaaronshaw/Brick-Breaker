@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: feced4943b2616a458a37b0bb969ca0c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 0 hits
+    21300002: Left
+    21300004: Right
+    21300006: 0 hit
+    21300008: 1 hit
+    21300010: 2 hit
+    21300012: 4 hit
+    21300014: Left 0 hit
+    21300016: Left 1 hit
+    21300018: Left 3 hit
+    21300020: left 3 hit
+    21300022: left 4 hit
+    21300024: right 0 hit
+    21300026: right 1 hit
+    21300028: right 2 hit
+    21300030: 3 hit
+    21300032: left 0 hit
+    21300034: left 1 hit
+    21300036: right 3 hit
+    21300038: Bricks_0
+    21300040: Bricks_1
+    21300042: Bricks_2
+    21300044: Bricks_3
+    21300046: Bricks_4
+    21300048: Bricks_5
+    21300050: Bricks_6
+    21300052: Bricks_7
+    21300054: Bricks_8
+    21300056: Bricks_9
+    21300058: Bricks_10
+    21300060: Bricks_11
+    21300062: Bricks_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bricks_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bricks_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bricks_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 91
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bricks_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 91
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
